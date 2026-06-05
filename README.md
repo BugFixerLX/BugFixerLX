@@ -1,6 +1,6 @@
 Hey there! 
 
-I'm BugFixerLX, a Machine Learning, AI, Data Science, and Full-Stack Developer based in Kenya.
+I'm BugFixerLX, a Machine Learning, AI, Data Science, and Full-Stack Developer.
 
 I train models, analyze data, and build full-stack applications from the ground up.
 
