@@ -12,10 +12,6 @@ I've spent significant time working on data curation and Reinforcement Learning 
 
 When I'm not teaching AI how to think like a human, I'm usually convincing my computer that I haven't left my desk.
 
-###  Current Project Focus
-
-* **Windows OS Portfolio Website:** I am currently building a full-stack personal portfolio designed to entirely mimic a classic desktop Windows operating system interface.
-
 ###  Fun Facts:
 
 * **The Ghost in the Machine:** I wrote a custom Mouse Jiggler script because my automation pipelines deserve to run forever, even if my physical stamina doesn't.
